@@ -1,0 +1,33 @@
+.container{
+    width: 600px;
+    min-height: 350px;
+    background-color: blueviolet;
+    text-align: center;
+    overflow: hidden;;
+}
+
+.title{
+   padding-top: 15px;
+}
+
+.input_box{
+    margin: 10px;
+   
+}
+.input_box, .input_btn, input{
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid blueviolet;
+}
+.input_btn{
+    margin: 10px;
+}
+.result_box{
+    background: #fff;
+    padding: 10px;
+   
+}
+h2#result{
+    
+    visibility: hidden;
+}
